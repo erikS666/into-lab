@@ -1,2 +1,21 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Introduction</title>
+  <meta charset="utf-8">
+</head>
+<body>
+  <p>Erik stephens</p>
+  <p>2/1/2024</p>
+  <p>HTML</p>
+  <p>Inokentiy kadilov</p>
+  <hr>
+
+  <p>graphic desing</p>
+  <p>rake one class in high school</p>
+  <p>I really like foxes >.<</p>
+  <hr>
+
+  <p>I have none right now</p>
+
+</body>
